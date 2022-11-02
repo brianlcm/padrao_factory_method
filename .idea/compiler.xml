@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="padrao_factory_method" />
         <module name="padrao_factoryMethod" />
       </profile>
     </annotationProcessing>
